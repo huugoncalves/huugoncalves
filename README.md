@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Java, C, C#, CSS# and HTML5.</strong>
+  🦄 Skills: <strong>Java, C, C#, CSS3 and HTML5.</strong>
 </p>
 
 <p align="left">
