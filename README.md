@@ -18,6 +18,6 @@
   💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
 </p>
   
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/huugoncalves" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huugoncalves" /></a>
 </p> 
