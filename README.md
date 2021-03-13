@@ -15,6 +15,10 @@
 </p>
 
 <p align="left">
+  😂 Fun fact: <strong>I'm not saying I'm Batman. I just say that you never saw Batman and me together!</strong>
+</p>
+
+<p align="left">
   💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
 </p>
   
