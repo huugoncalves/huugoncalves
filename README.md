@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Java, Angular, C, C#, CSS3 and HTML5.</strong>
+  🦄 Skills: <strong>Java, Angular, Spring, C, C#, CSS3 and HTML5.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Eclipse, IntelliJ, Spring, Dev-C++, Visual Studio, Visual Studio Code, Git and GitHub.</strong>
+  💼 Tools: <strong>Eclipse, IntelliJ, Dev-C++, Visual Studio, Visual Studio Code, Git and GitHub.</strong>
 </p>
 
 <p align="left">
