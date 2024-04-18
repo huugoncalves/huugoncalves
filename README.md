@@ -2,16 +2,16 @@
 
 <p align="left">
   <h1>Hello, welcome to my code cave. 🦇</h1> 
-  My name is Hugo Gonçalves, I am <strong>Full-Stack Developer</strong>.<br>
+  My name is Hugo Gonçalves, I am <strong>Software Engineer</strong>.<br>
   I am currently work as a <strong>Java Development</strong> and I am studying <strong>Computer Science</strong>.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Java, Angular, Spring, C, C#, CSS3 and HTML5.</strong>
+  🦄 Skills: <strong>Java, Typescript, Javascript, Springboot, Quarkus, Node.js, Angular, CSS3 and HTML5.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Eclipse, IntelliJ, Dev-C++, Visual Studio, Visual Studio Code, Git and GitHub.</strong>
+  💼 Tools: <strong>Eclipse, IntelliJ, Visual Studio, Visual Studio Code, Git and GitHub.</strong>
 </p>
 
 <p align="left">
