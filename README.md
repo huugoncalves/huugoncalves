@@ -3,7 +3,7 @@
 <p align="left">
   <h1>Hello, welcome to my code cave. 🦇</h1> 
   My name is Hugo Gonçalves, I am <strong>Software Engineer</strong>.<br>
-  I am currently work as a <strong>Java Development</strong> and I am studying <strong>Computer Science</strong>.
+  I am currently work as a <strong>Mid-level Java Developer</strong> and I am studying <strong>Computer Science</strong>.
 </p>
 
 <p align="left">
